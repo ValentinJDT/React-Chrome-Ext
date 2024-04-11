@@ -8,4 +8,4 @@ On chrome, go to [chrome://extensions](chrome://extensions), enable the develope
 
 ## Warning
 
-This type of project can't use React-Router, so you need to make your own navigation system (or use the)
+This type of project can't use React-Router, so you need to make your own navigation system (or use the current homemade system)
