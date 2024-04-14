@@ -1,3 +1,4 @@
+import './App.css'
 import Router, { Route } from "./component/router/Router";
 import Home from "./views/Home";
 import Settings from "./views/Settings";
