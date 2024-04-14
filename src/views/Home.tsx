@@ -15,7 +15,7 @@ const Home: FC<RouteComponentProps> = ({
       active: true,
       currentWindow: true,
     }, ([tab]) => {
-      console.log(tab.url)
+      setCurrentPath(tab.url!)
     });
   }
 
